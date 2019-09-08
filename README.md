@@ -1,2 +1,5 @@
-# swift-recipes
-Collection of Swift recipes.
+# Collection of Swift Recipes
+
+A collection of simple Swift recipes.
+
+* [JSON Serialization](json)
