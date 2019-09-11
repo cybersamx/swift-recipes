@@ -3,3 +3,4 @@
 A collection of simple Swift recipes.
 
 * [JSON Serialization](json)
+* [Concurrency](concurrency)
